@@ -1,11 +1,9 @@
-<h1 align="center">Ciao 👋, sono MrBreadde</h1>
-<h3 align="center">Uno developer italiano</h3>
+<h1 align="center">Hi 👋, i'm MrBreadde</h1>
+<h3 align="center"An Italian Developer</h3>
 
-- 🔭 Attualmente sto lavorando su **Anomalia Network (Minecraft Server) **
+- 🔭 I'm currently working on **Anomalia Network (Minecraft Server) **
 
-- 🌱 Attualmente sto imparando: **Java (SpigotAPI)**
-
-- 📫 Come raggiungermi **lorenzocampa07@gmail.com**
+- 🌱 I am currently learning: **Java (SpigotAPI)**
 
 - ⚡ Curiosità **suono il calcio e la chitarra elettrica**
 
