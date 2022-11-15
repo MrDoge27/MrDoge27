@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, i'm MrBreadde</h1>
 <h3 align="center"An Italian Developer</h3>
 
-- 🔭 I'm currently working on **AzureMC (Minecraft Server) **
+- 🔭 I'm currently working on **???Soon???**
 
-- 🌱 I am currently learning: **Java (SpigotAPI)**
+- 🌱 I am currently learning: **C# and Unity**
 
 - ⚡ Fun Fact **I play football and elettric guitar**
 
